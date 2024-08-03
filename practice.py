@@ -5,4 +5,8 @@ word = word + '12'
 
 #False = 'farts'
 
-print(False)
+import math
+
+
+print(2.1**2)
+print(type(2.1**2))
