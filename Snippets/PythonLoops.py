@@ -55,3 +55,5 @@ while i < len(animals2):
         new_animals2.append(animal)
     i = i+1
 print(new_animals2)
+
+# Using break and continue
